@@ -1,0 +1,36 @@
+{
+  "gameID": 1,
+  "turn": 1,
+  "players": [
+    1,
+    2
+  ],
+  "currentPlayer": 1,
+  "board": {
+    "columns": 10,
+    "rows": 10,
+    "ships": [
+      {
+        "x": [
+          2,
+          3,
+          4
+        ],
+        "y": [
+          4
+        ]
+      }
+    ],
+    "damage": [
+      {
+        "x": 1,
+        "y": 2
+      },
+      {
+        "x": 5,
+        "y": 2
+      }
+    ]
+  }
+}
+

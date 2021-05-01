@@ -1,1 +1,1 @@
-# battleship
+# Battleship Competition BY AI Python Course
