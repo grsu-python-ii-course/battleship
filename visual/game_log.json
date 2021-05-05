@@ -1,5 +1,9 @@
 [
   {
+    "shoot": {
+      "x": 5,
+      "y": 5
+    },
     "gameID": 1,
     "turn": 1,
     "players": [
@@ -35,6 +39,10 @@
     }
   },
   {
+    "shoot": {
+      "x": 3,
+      "y": 3
+    },
     "gameID": 1,
     "turn": 2,
     "players": [
